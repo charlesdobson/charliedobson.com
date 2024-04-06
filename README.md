@@ -1,5 +1,8 @@
 # Welcome to Remix!
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/77a7c033-188a-47f1-8f89-09abf41ce07a/deploy-status)](https://app.netlify.com/sites/charliedobson/deploys)
+
+
 - [Remix Docs](https://remix.run/docs)
 - [Netlify Functions Overview](https://docs.netlify.com/functions/overview)
 
