@@ -1,3 +1,21 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-white font-sans text-slate-900;
+  }
+
+  h1 {
+    @apply text-2xl text-slate-900;
+  }
+
+  h3 {
+    @apply text-lg text-slate-800;
+  }
+
+  .link {
+    @apply text-slate-600 hover:text-teal-800 hover:underline ease-in-out transition-colors duration-200 inline;
+  }
+}

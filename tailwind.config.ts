@@ -5,5 +5,8 @@ export default {
   theme: {
     extend: {},
   },
+  variants: {
+    fill: ['hover', 'focus'],
+  },
   plugins: [],
 } satisfies Config;
